@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Vera Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I'm a programmer, foodie, and I love video games. I grew up in SoCal (praise the sun) and graduated from UC Berkeley in 2020"
+  bio    : "Hi! I'm a programmer. I grew up in SoCal (praise the sun) and graduated from UC Berkeley in 2020."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
