@@ -8,8 +8,9 @@ Hi, welcome to my about page. You might be wondering, who is SHE, or not. but li
 Likes:
 books 
 kombucha
+my family
 coffee (oh no)
 
 Dislikes:
-people who fear kombucha
+people who fear kombucha without understanding it
 burned toast
