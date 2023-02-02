@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Vera Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  logo : "/assets/images/dio.png"
+  logo   : "/assets/images/dio.png"
   bio    : "Hi! I'm a programmer. I grew up in SoCal (praise the sun)! UCB '20"
   links:
     - label: "Website"
