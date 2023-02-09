@@ -1,12 +1,10 @@
 ---
-title: "Post: Standard"
+title: "Resume"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - resume
 ---
 
-eh
+Here's a link to my resume: https://drive.google.com/file/d/11YAuQPWUTFFIXC7fx4ITpDMwu7MGKJbv/view?usp=sharing
