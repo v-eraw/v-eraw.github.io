@@ -59,7 +59,7 @@ author:
   name   : "Vera Wang"
   avatar : "/assets/images/bio-photo.png"
   logo   : "/assets/images/dio.png"
-  bio    : "Hi! I'm a software engineer/indie developer. I grew up in SoCal (praise the sun)! UCB '20"
+  bio    : "Hi! I'm a software developer. I grew up in SoCal (praise the sun)! UCB '20"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
