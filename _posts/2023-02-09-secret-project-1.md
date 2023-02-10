@@ -29,6 +29,6 @@ The issue with the university system in this game is that after a certain point 
 
 Or maybe the university could be less of a university system but more of a community with a school and people in the community just occasionally go to the school and take classes and pick up skills. So then I guess I could pivot to more of a town sim than a school sim. Maybe I should just dig into the annoying-ness of having to restart with new characters every new year, not sure-and have the player try to figure their own way around it. 
 
-I also think it's interesting or will be interesting seeing how the player decides to and where they decide to place like dorms or important lecture halls and what kind of transit system they will put in place or bus lines. They need to be able to make bus lines imo.
+I also think it's interesting or will be interesting seeing how the player decides to and where they decide to place like dorms or important lecture halls and what kind of transit system they will put in place or bus lines. They need to be able to make bus lines imo. And there needs to be grocery stores and restaurants and bad cafeteria food.
 
 Watch me think about this a ton and then make something that's especially boring to play LOL.
