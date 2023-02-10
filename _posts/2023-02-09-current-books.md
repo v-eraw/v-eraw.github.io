@@ -11,6 +11,7 @@ Books I'm Reading:
 - Unity in Action Multiplatform Game Development in C by Joseph Hocking
 - A Promised Land
 - Checkout 19
+- Constructing a Nervous System
 
 Books I've Read:
 - Crying in H-Mart
