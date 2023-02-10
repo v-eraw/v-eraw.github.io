@@ -61,18 +61,9 @@ author:
   logo   : "/assets/images/dio.png"
   bio    : "Hi! I'm a software developer. I grew up in SoCal (praise the sun)! UCB '20"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/v-erawang"
 
 footer:
   links:
