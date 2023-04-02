@@ -3,17 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, welcome to my about page. Thanks for visiting! Here are some random (and useless) facts about me.
+Hi, welcome to my about page. Thanks for visiting! Here are some random and useless facts about me.
 
-Likes:
+I like:
 - books 
 - kombucha
 - my family
 - coffee (oh no)
 - bunnies
 
-Dislikes:
-- people who fear kombucha without understanding it
+I dislike:
+- misunderstandings
 - burned toast
 - haunted houses
 - personality quizzes
