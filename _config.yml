@@ -59,11 +59,11 @@ author:
   name   : "Vera Wang"
   avatar : "/assets/images/bio-photo.png"
   logo   : "/assets/images/dio.png"
-  bio    : "Hi! I'm a software developer."
+  bio    : "Hi! I'm a software developer and video game aficionado."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/v-erawang"
+      url: "https://github.com/v-eraw"
 
 footer:
   links:
@@ -72,7 +72,7 @@ footer:
     #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/v-erawang"
+      url: "https://github.com/v-eraw"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
