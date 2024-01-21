@@ -17,7 +17,7 @@ title: my personal website / rambles
 email: veraw413@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal website for moi.
-# twitter_username: 
+# twitter_username:
 github_username: v-erawang
 minimal_mistakes_skin: "plum"
 search: true
@@ -56,10 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Vera Wang"
-  avatar : "/assets/images/bio-photo.png"
-  logo   : "/assets/images/dio.png"
-  bio    : "Hi! I'm a software developer and video game aficionado."
+  name: "Vera Wang"
+  avatar: "/assets/images/selfie.jpeg"
+  bio: "Hi! I'm a software developer and video game aficionado."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
