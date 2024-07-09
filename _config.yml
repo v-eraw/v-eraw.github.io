@@ -58,7 +58,7 @@ plugins:
 author:
   name: "Vera Wang"
   avatar: "/assets/images/selfie.jpeg"
-  bio: "Hi! I'm a software developer and video game aficionado."
+  bio: "Hi!"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
