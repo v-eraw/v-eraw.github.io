@@ -3,15 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, welcome to a super brief about page. Thanks for visiting! Here are some random facts about me.
-
-I like:
-
-- reading
-- kombucha
-- coffee
-- going to disneyland!
-
-I dislike:
-
-- nothing much honestly
+Hi, welcome to a super brief about me page. Thanks for visiting! My favorite hobbies include reading, drinking kombucha, going to disneyland and listening music, and I haven't really added much to this site.
